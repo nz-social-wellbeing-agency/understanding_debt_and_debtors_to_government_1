@@ -52,6 +52,10 @@ Prior to running the project be sure to review the associated report and documen
 	* Run tidy_variables.R
 	* Run cross_tab_summaries.R and output_group_summaries.R
 
+## Citation
+
+Social Wellbeing Agency (2022). Understanding debt and debtors to government. Source code. https://github.com/nz-social-wellbeing-agency/understanding_debt_and_debtors_to_government_1
+
 ## Getting Help
 If you have any questions email info@swa.govt.nz
 
